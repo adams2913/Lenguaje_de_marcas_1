@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="/css.css" />
+			Programcion en HTML
+	</head>
+
+	<body>
+		Ejemplo de programación con <b>HTML</b>
+
+	</body>	
+
+
+</html>
